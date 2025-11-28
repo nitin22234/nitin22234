@@ -6,10 +6,10 @@
 ---
 
 # 👨‍💻 About Me  
-- 🎓 **B.Tech in Electronics and Communication Engineering (ECE)** at IIIT Una  
-- 💼 Worked as an intern at **DRDO** (Microheater Modeling) and **CDAC** (Cybersecurity) :contentReference[oaicite:1]{index=1}  
-- 🛠️ Building projects in **Full Stack Web Development, AI, Maps, and Real-time Apps**  
-- 🔐 Hands-on experience in **ethical hacking, Nmap, Metasploit, malware behavior analysis** (CDAC) :contentReference[oaicite:2]{index=2}  
+- 🎓 B.Tech in **Electronics and Communication Engineering (ECE)** at **IIIT Una**  
+- 💼 Interned at **DRDO** (Microheater Modeling) and **CDAC** (Cybersecurity)  
+- 🛠️ Building projects in **full-stack web development, AI, maps, and real-time systems**  
+- 🔐 Hands-on experience in **ethical hacking, Nmap, Metasploit, malware behavior analysis**  
 - 🎯 Passionate about creating products that merge **engineering + software + AI**  
 - ⚡ Fun fact: I love working on **API-driven apps, system design & smart automation tools**
 
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -39,60 +39,64 @@
 # 🚀 Featured Projects  
 
 🔹 **Storo – Smart Luggage Storage Platform**  
-*React.js | Node.js | MongoDB | Mapbox | Razorpay | Tailwind | JWT* :contentReference[oaicite:3]{index=3}  
-> Digital platform enabling travelers to store luggage at nearby hotels with time + weight-based pricing.  
-> Integrated Mapbox (live search) & Razorpay (UPI/card payments).  
-> Built scalable backend with MVC architecture & role-based auth.
+*React.js | Node.js | Express.js | MongoDB | Mapbox | Razorpay | Tailwind CSS | JWT*  
+> Digital platform enabling travelers to securely store luggage at nearby hotels/partners with a time + weight-based pricing model.  
+> Integrated Mapbox API for real-time location search and Razorpay for secure UPI/card payments.  
+> Designed a scalable backend using MVC architecture, JWT auth, and role-based partner/user management.
 
 ---
 
 🔹 **AI Career Coach**  
-*Next.js | Tailwind CSS | Gemini AI | Prisma* :contentReference[oaicite:4]{index=4}  
-> Gemini-powered AI advisor for job paths, resume reviews & mock interviews.  
-> Modular backend with Prisma ORM and REST APIs for high availability.
+*Next.js | Tailwind CSS | Gemini AI | Prisma*  
+> AI-powered career advisor capable of generating personalized job paths, resume reviews, and mock interviews.  
+> Built a modular backend using Prisma ORM and REST APIs.  
+> Implemented responsive UI for a seamless user experience.
 
 ---
 
-🔹 **CryptoTrack – Realtime Crypto Price Dashboard**  
-*React.js | CoinGecko API | Axios* :contentReference[oaicite:5]{index=5}  
-> Live price dashboard for multiple cryptocurrencies.  
-> Search + filter + optimized data fetching.
+🔹 **CryptoTrack – Realtime Crypto Dashboard**  
+*React.js | CoinGecko API | Axios*  
+> Real-time cryptocurrency dashboard displaying live prices for multiple coins via CoinGecko API.  
+> Implemented intuitive search and filter in React for smooth navigation.  
+> Optimized API handling and rendering using Axios and incremental data fetching.
 
 ---
 
 # 🧪 Experience  
 
-### 🛰️ **Defence Research & Development Organisation (DRDO) — Intern**  
-*May 2025 – June 2025 | Remote* :contentReference[oaicite:6]{index=6}  
-- Designed & simulated **platinum-based microheater structures** in COMSOL.  
-- Achieved **30% faster heating response** by optimizing geometry & material properties.
+### 🛰️ Defence Research & Development Organisation (DRDO) — Intern  
+*May 2025 – June 2025 | Remote*  
+- Designed and simulated **platinum-based microheater structures** in COMSOL Multiphysics.  
+- Achieved ~30% reduction in heating response time by optimizing geometry and material properties.  
+- Improved performance of sensor arrays in high-speed applications.
 
 ---
 
-### 🛡️ **Centre for Development of Advanced Computing (CDAC) — Cybersecurity Intern**  
-*Jan 2025 – Feb 2025 | Remote* :contentReference[oaicite:7]{index=7}  
-- Hands-on **Google Dorking, Nmap, Metasploit**.  
-- Improved malware detection via behavior analysis.
+### 🛡️ Centre for Development of Advanced Computing (CDAC) — Cybersecurity Intern  
+*Jan 2025 – Feb 2025 | Remote*  
+- Gained hands-on experience in **ethical hacking techniques**: Google Dorking, port scanning, vulnerability assessment using Nmap and Metasploit.  
+- Enhanced malware detection via behavior analysis and testing methodologies.
 
 ---
 
-# 🏅 Achievements  
-- 🎓 CGPA: **7.43** (ECE, IIIT Una) :contentReference[oaicite:8]{index=8}  
-- 🔐 Cybersecurity & ethical hacking background  
-- 🤝 **Volunteering Head at ECOVA** (IIIT Una)  
-- ✨ Executive at **ZENITH** (IIIT Una)
+# 🏅 Highlights & Roles  
+
+- 🎓 **B.Tech ECE** at IIIT Una (2022–Present)  
+- 📊 Current CGPA: **7.43**  
+- 🤝 **Volunteering Head**, ECOVA, IIIT Una  
+- 🌟 **Executive**, ZENITH, IIIT Una  
 
 ---
 
 # 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitinSharma&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinSharma&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nitin22234&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin22234&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinSharma&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -101,10 +105,10 @@
 
 <p align="center">
   <a href="mailto:nitinsharma010403@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-✨ *Always open to collaborations, internships, and impactful tech projects!*  
+✨ Always open to collaborations, internships, and impactful tech projects!
